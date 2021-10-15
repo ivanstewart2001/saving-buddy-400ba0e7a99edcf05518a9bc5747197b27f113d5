@@ -1,0 +1,7 @@
+.header {
+    background-color: #00416a;
+    height: 10vh;
+    width: 100%;
+    border-collapse:'separate'; 
+    border-spacing:'0 15px'
+}
